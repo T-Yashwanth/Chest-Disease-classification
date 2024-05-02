@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash/Downloads/Projects/ML%20projects/Chest-Disease-classification/research/mlruns/0/f0c10c57c7e24a5dad1823e646317c8b/artifacts
+end_time: 1713989793445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0c10c57c7e24a5dad1823e646317c8b
+run_name: classy-crane-202
+run_uuid: f0c10c57c7e24a5dad1823e646317c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713989786014
+status: 3
+tags: []
+user_id: yash

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash/Downloads/Projects/ML%20projects/Chest-Disease-classification/research/mlruns/0/b96edad524794c9f8a273bfe5fbfe3d0/artifacts
+end_time: 1714588210255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b96edad524794c9f8a273bfe5fbfe3d0
+run_name: sassy-rat-850
+run_uuid: b96edad524794c9f8a273bfe5fbfe3d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714588201655
+status: 3
+tags: []
+user_id: yash
