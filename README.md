@@ -42,10 +42,10 @@ python script.py
 ### RUN from bash terminal
 
 ```bash
-export MLFLOW_TRACKING_URI=<>
+export MLFLOW_TRACKING_URI=https://dagshub.com/T-Yashwanth/Chest-Disease-classification.mlflow
 
-export MLFLOW_TRACKING_USERNAME=<>
+export MLFLOW_TRACKING_USERNAME=T-Yashwanth
 
-export MLFLOW_TRACKING_PASSWORD=<>
+export MLFLOW_TRACKING_PASSWORD=33add6eb0c8a2f39f9671d6ba0f49adfd5298099
 
 ```
